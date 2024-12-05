@@ -1,5 +1,10 @@
 # CS 5644 Group 6
 
-To run notebooks, need to data directory/ on the same level as the .ipynb files. 
-The CS5644_Group6.ipynb is where the data will be joined and trained on, crashes, vehicles, and persons is where the preprocessing for each data respectively occurs
+Code is located in code/
+Data is must be placed in data/
+Install requirements using pip install -r requirements.txt
+Run order:
+1) persons
+2) vehicles
+3) crashes
 WARNING: The data zipped file is large 
