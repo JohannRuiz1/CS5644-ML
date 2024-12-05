@@ -1,2 +1,2 @@
-data/*
-processed/*.csv
+data/*.csv
+data/processed/*.csv
